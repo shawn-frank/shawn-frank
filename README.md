@@ -10,7 +10,7 @@ My name is Shawn Frank and I am based in Brisbane, Australia. I develop native i
 
 - 📫 How to reach me **shawnfrank.work@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf)
+- 📄 Interested in my experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
