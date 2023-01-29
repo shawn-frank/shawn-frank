@@ -1,4 +1,4 @@
-### Hello there 👊🏾 Shawn here
+### Hello there, Shawn here 👊🏾
 #### I am an iOS developer and enjoy creating delightful user experiences.
 ![I am an iOS developer and enjoy creating great user experiences.](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
 
