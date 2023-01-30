@@ -15,12 +15,35 @@ My name is Shawn Frank and I am a native iOS developer based in Brisbane, Austra
 #
 
 ### Client Projects
-`Shaman`
+
+#### `Shaman Pitch Presentation App`
+
+Shaman is a presentation platform that enables its customers to close more deals and was founded by Maurice Van Leeuwen from the Netherlands. Maurice visited me in Dubai back in 2014 to work on Shaman and we started with a team of just 3 people. I was initially incharge of designing the UX, developing the iOS app and managing the development. By 2016, Shaman started gaining momentum with more customers and I helped Maurice expand the Shaman team so that we could move faster. Here were some of the project highlights:
+
+* The app was developed in Objective C
+* Key Apple Frameworks: Multipeer for screen share, CoreData, UICollectionView, FileManager
+* 3rd Party Frameworks: AFNetworking, Crashlytics, Sentry, SocketCluster, GCD Web Server
+* Other interesting technology: GraphQL
+* Designed the UI / UX for the first 3 years of the app
+* Developed several custom controls and UI elements
+* Managed a few backend developers for the first 3 years before helping Maurice grow the team
+
+Learn more about Shaman from their [website](https://www.shamanhealth.com/) or check out the [iOS app here.](https://apps.apple.com/us/app/shaman-pitch-presentation-app/id908332273)
+
+Alternatively, you could watch the video below to learn more about Shaman and get a glimpse of the iOS app in action.
+
+https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-afbd-a13e2ba32e19.mp4
+
 `Spuble`
+
 `IBM`
+
 `Banyan SDK`
+
 `Harman House`
+
 `SuperCars Majlis`
+
 `First Class & More`
 
 #
