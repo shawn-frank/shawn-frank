@@ -34,7 +34,20 @@ Alternatively, you could watch the video below to learn more about Shaman and ge
 
 https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-afbd-a13e2ba32e19.mp4
 
-`Spuble`
+#### `Spuble - Real Life Speech Bubbles`
+
+Spuble is a project that I hold quite close to my heart for several reasons. First, it made a real impact in the lives of senior citizens who lost their hearing ability over time. Second, I had the chance to collaborate with some talented people over at Memac Ogilvy. And last, but not least, the app won an award at the [the Dubai Lynx Festival in 2017](https://www2.dubailynx.com/winners/2017/innovation/) in the category of innovative technology. Here was how I was involved:
+
+* Developed the app in Objective C
+* Used AutoLayout to scale the app for iPhones & iPads
+* Configured the app to support English & Arabic 
+* Integrated [Nuance's Dragon Speech to Text SDK](https://www.nuance.com/dragon.html)
+* Worked on the UX R&D with Gary for 8 months to make the app as simple to use as possible
+* Pitched the app with Gary at the Dubai Lynx Festival
+
+The app is no longer on the store, so you can learn more about it from the video below.
+
+https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-988e-0074058bf78f.mp4
 
 `IBM`
 
