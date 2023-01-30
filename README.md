@@ -66,7 +66,8 @@ https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-
 
 #### `Reliable Radio`
 
-<p><img align="left" width="200" src="https://github.com/shawn-frank/shawn-frank/blob/main/Assets/RR.gif">
+![Reliable Radio App Screenshots](https://user-images.githubusercontent.com/80219691/215565275-470863b7-d081-4f9b-bf7f-aa89cc484a4a.png)
+
 Reliable Radio is the brainchild of an AWS solutions architect named Dawid Gatti. Dawid was the product lead while I was developing an iOS SDK for Banyan (see above). Dawid is based in Italy and often goes for long drives in the mountains where his radio and streaming apps often disconnect due the network being unreachable at some parts. Once discounnected, these apps would not reconnect back which required Dawid to restart the app while driving. Dawid hired me to build Reliable Radio to solve this problem and here are some highlights of the project: <br/>
 
 1 - Implemented auto reconnect by observing `AVPlayer's` streaming notification and network rechability notifications
