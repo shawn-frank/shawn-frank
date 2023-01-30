@@ -2,7 +2,7 @@
 #### I develop native iOS apps & enjoy creating delightful user experiences.
 ![I am an iOS developer and enjoy creating great user experiences.](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
 
-My name is Shawn Frank and I am based in Brisbane, Australia. I develop native iOS applications using Swift (or Objective C if required) and I am especially passionate about programming user experiences. I ran a small creative agency in Dubai for 9 years where I helped create bespoke digital experiences for large enterprises & startups.
+My name is Shawn Frank and I am a native iOS developer based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about programming user experiences. I ran a small creative agency in Dubai for 9 years where I helped create bespoke digital experiences for large enterprises & startups.
 
 🌱 I’m currently learning **SwiftUI**
 
@@ -12,23 +12,50 @@ My name is Shawn Frank and I am based in Brisbane, Australia. I develop native i
 
 📄 Interested in my experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf)
 
-<hr> 
+#
 
-#### Client Projects
+### Client Projects
+`Shaman`
+`Spuble`
+`IBM`
+`Banyan SDK`
+`Harman House`
+`SuperCars Majlis`
+`First Class & More`
 
-<hr> 
+#
 
-#### Indie Projects
+### Indie Projects
+#### `PanoStory`
 
-<hr>
+#### `Reliable Radio`
+
+<p><img align="left" width="200" src="https://github.com/shawn-frank/shawn-frank/blob/main/Assets/RR.gif">
+Reliable Radio is the brainchild of an AWS solutions architect named Dawid Gatti. Dawid was the product lead while I was developing an iOS SDK for Banyan (see above). Dawid is based in Italy and often goes for long drives in the mountains where his radio and streaming apps often disconnect due the network being unreachable at some parts. Once discounnected, these apps would not reconnect back which required Dawid to restart the app while driving. Dawid hired me to build Reliable Radio to solve this problem and here are some highlights of the project: <br/>
+
+1 - Implemented auto reconnect by observing `AVPlayer's` streaming notification and network rechability notifications
+
+2 - Added `CarPlay` support which was something I had to learn while building this app
+
+3 - Made use of `CoreData` with `CloudKit` to sycnrhonize user's saved radio stations across all their devices
+
+4 - Connected with the `iTunes / Apple Music API` in order to display the currently playing song's artwork
+
+The project is no longer live, you can [learn more about Reliable Radio on Product Hunt.](https://www.producthunt.com/products/reliable-radio)</p>
   
-#### Connect with me
+<br /><br />
+
+#### `Barakah Coupons`
+
+#
+  
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shawn-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn-frank" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1619193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1619193" height="30" width="40" /></a>
 </p>
 
-#### Languages and Tools
+### Languages and Tools
 <p align="left"> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a>
