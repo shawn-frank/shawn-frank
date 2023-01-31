@@ -58,6 +58,16 @@ https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-
 
 ![PanoStory_App Screenshots](https://user-images.githubusercontent.com/80219691/215570024-2cc30c54-1661-4305-b83b-a5dfb4b4b989.jpg)
 
+I met a UX designer / product manager named Alex Cox from San Francisco via UpWork when he commissioned me to develop an app that used an iPhone's camera as a magnifying glass. We enjoyed working together and once readers was launched in early 2021, we started building PanoStory. We found that user's had no easy way to share their Panoramas without cutting them up and so PanoStory converts any panoramic photo into a story-ready video to showcase the beauty of your shots. Here were some of my responsibilities:
+
+* Work with Alex and another designer to finalize the UX of the app
+* Developed Pano in Swift with several custom UI elements and user experiences
+* The complete iterface was developed programatically without storyboards
+* Integrated PhotoKit to automatically sync Panoramas from the user's gallery
+* Leveraged AVFoundation & CoreAnimation to convert panoramas into videos
+* Integrated StoreKit so that users could pay to remove ads
+
+Check out [PanoStory on the App Store.](https://apps.apple.com/us/app/panostory/id1558262230)
 
 #### `Reliable Radio`
 
