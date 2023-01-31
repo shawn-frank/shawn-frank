@@ -20,10 +20,10 @@ My name is Shawn Frank and I am a native iOS developer based in Brisbane, Austra
 
 Shaman is a presentation platform that enables its customers to close more deals and was founded by Maurice Van Leeuwen from the Netherlands. Maurice visited me in Dubai back in 2014 to work on Shaman and we started with a team of just 3 people. I was initially incharge of designing the UX, developing the iOS app and managing the development. By 2016, Shaman started gaining momentum with more customers and I helped Maurice expand the Shaman team so that we could move faster. Here were some of the project highlights:
 
-* The app was developed in Objective C
-* Key Apple Frameworks: Multipeer for screen share, CoreData, UICollectionView, FileManager
-* 3rd Party Frameworks: AFNetworking, Crashlytics, Sentry, SocketCluster, GCD Web Server
-* Other interesting technology: GraphQL
+* The app was developed in `Objective C`
+* Key Apple Frameworks: `Multipeer` for screen share, `CoreData`, `UICollectionView` and `FileManager` to name a few
+* 3rd Party Frameworks: `AFNetworking`, `Crashlytics`, `Sentry`, `SocketCluster`, `GCD Web Server`
+* Other interesting technology: `GraphQL`
 * Designed the UI / UX for the first 3 years of the app
 * Developed several custom controls and UI elements
 * Managed a few backend developers for the first 3 years before helping Maurice grow the team
@@ -38,9 +38,9 @@ https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-
 
 Spuble is a project that I hold quite close to my heart for several reasons. First, it made a real impact in the lives of senior citizens who lost their hearing ability over time. Second, I had the chance to collaborate with some talented people over at Memac Ogilvy. And last, but not least, the app won an award at the [the Dubai Lynx Festival in 2017](https://www2.dubailynx.com/winners/2017/innovation/) in the category of innovative technology. Here was how I was involved:
 
-* Developed the app in Objective C
-* Used AutoLayout to scale the app for iPhones & iPads
-* Configured the app to support English & Arabic 
+* Developed the app in `Objective C`
+* Used `AutoLayout` to scale the app for iPhones & iPads
+* Leveraged `localization` to enable the app to support English & Arabic 
 * Integrated [Nuance's Dragon Speech to Text SDK](https://www.nuance.com/dragon.html)
 * Worked on the UX R&D with Gary (Art Director at Ogilvy) for 8 months to make the app as simple to use as possible
 * Pitched the app with Gary at the Dubai Lynx Festival
@@ -58,14 +58,14 @@ https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-
 
 ![PanoStory_App Screenshots](https://user-images.githubusercontent.com/80219691/215570024-2cc30c54-1661-4305-b83b-a5dfb4b4b989.jpg)
 
-I met a UX designer / product manager named Alex Cox from San Francisco via UpWork when he commissioned me to develop an app that used an iPhone's camera as a magnifying glass. We enjoyed working together and once readers was launched in early 2021, we started building PanoStory. We found that user's had no easy way to share their Panoramas without cutting them up and so PanoStory converts any panoramic photo into a story-ready video to showcase the beauty of your shots. Here were some of my responsibilities:
+I met a UX designer / product manager named Alex Cox from San Francisco via UpWork when he commissioned me to develop Readers - an app that used an iPhone's camera as a magnifying glass. We enjoyed working together and once readers was launched in early 2021, we started building PanoStory. We found that user's had no easy way to share their Panoramas without cutting them up and so PanoStory converts any panoramic photo into a story-ready video to showcase the beauty of your shots. Here were some of my responsibilities:
 
 * Work with Alex and another designer to finalize the UX of the app
-* Developed Pano in Swift with several custom UI elements and user experiences
-* The complete iterface was developed programatically without storyboards
-* Integrated PhotoKit to automatically sync Panoramas from the user's gallery
-* Leveraged AVFoundation & CoreAnimation to convert panoramas into videos
-* Integrated StoreKit so that users could pay to remove ads
+* Developed Pano in `Swift` with several custom UI elements and user experiences
+* The complete iterface was developed programatically using `AutoLayout` without storyboards
+* Integrated `PhotoKit` to automatically sync Panoramas from the user's gallery
+* Leveraged `AVFoundation` & `CoreAnimation` to convert panoramas into videos
+* Integrated `StoreKit` so that users could pay to remove ads
 
 Check out [PanoStory on the App Store.](https://apps.apple.com/us/app/panostory/id1558262230)
 
