@@ -150,12 +150,14 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 #### `Tools & Technology`
 
 * XCode
+* Git
 * CocoaPods
 * Postman
 * FIGMA
 * Adobe XD
 * Invision
 * JIRA
+* Trello
 
 #### `Services I have worked with`
 
