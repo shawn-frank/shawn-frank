@@ -93,6 +93,7 @@ I met a UX designer / product manager named Alex Cox from San Francisco via UpWo
 * Integrated `PhotoKit` to automatically sync Panoramas from the user's gallery
 * Leveraged `AVFoundation` & `CoreAnimation` to convert panoramas into videos
 * Integrated `StoreKit` so that users could pay to remove ads
+* Leveraged `Firebase` for `Push Notifications`, `Crashlytics` and `Event Tracking`
 
 Check out [PanoStory on the App Store.](https://apps.apple.com/us/app/panostory/id1558262230)
 
@@ -102,19 +103,27 @@ Check out [PanoStory on the App Store.](https://apps.apple.com/us/app/panostory/
 
 Reliable Radio is the brainchild of an AWS solutions architect named Dawid Gatti. Dawid was the product lead while I was developing an iOS SDK for Banyan (see above). Dawid is based in Italy and often goes for long drives in the mountains where his radio and streaming apps often disconnect due the network being unreachable at some parts. Once discounnected, these apps would not reconnect back which required Dawid to restart the app while driving. Dawid hired me to build Reliable Radio to solve this problem and here are some highlights of the project: <br/>
 
-1 - Implemented auto reconnect by observing `AVPlayer's` streaming notification and network rechability notifications
-
-2 - Added `CarPlay` support which was something I had to learn while building this app
-
-3 - Made use of `CoreData` with `CloudKit` to sycnrhonize user's saved radio stations across all their devices
-
-4 - Connected with the `iTunes / Apple Music API` in order to display the currently playing song's artwork
+* Implemented auto reconnect by observing `AVPlayer's` streaming notification and network rechability notifications
+* Added `CarPlay` support which was something I had to learn while building this app
+* Made use of `CoreData` with `CloudKit` to sycnrhonize user's saved radio stations across all their devices
+* Connected with the `iTunes / Apple Music API` in order to display the currently playing song's artwork
 
 The project is no longer live, you can [learn more about Reliable Radio on Product Hunt.](https://www.producthunt.com/products/reliable-radio)</p>
-  
-<br /><br />
 
 #### `Barakah Coupons`
+
+![Barakah App Screenshots](https://user-images.githubusercontent.com/80219691/215760252-8871158a-73fe-44b0-8d9d-ce7be1a8abc6.png)
+
+Barakah Coupons is a promo code app for online shops that I launched in 2021 with 3 friends. We are currently working on adding a feature to support offline deals. Here is what I was involved in while working on Barakah Coupons:
+
+* Plan the user experience of the app along with a UI designer
+* Develop the app using Swift
+* The complete iterface was developed programatically using `AutoLayout` without storyboards
+* Achieved English & Arabic support using `localization`
+* Leveraged `Firebase` for `Push Notifications`, `Crashlytics` and `Event Tracking`
+* Managed a backend developer to develop a CMS and dashboard for us
+
+Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/barakah-coupons-discounts/id1591725910)
 
 #
   
