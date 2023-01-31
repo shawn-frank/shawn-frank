@@ -62,6 +62,8 @@ Harman Kardon stores are built with demonstration capabilities for their entire 
 * Managed a backend developer on this project who was responsible for developing a CMS and Dashboard
 * Helped with deploying the app across multiple iPads in different stores across Dubai
 
+The app is not on the App Store, however, I can give you more details if required in person.
+
 #### `Zabeel Ladies Club`
 
 ![ZLC screenshots](https://user-images.githubusercontent.com/80219691/215735736-136908d3-0bf3-4976-bca5-f8633280f7ce.gif)
