@@ -74,7 +74,8 @@ Zabeel Ladies Club (ZLC) has a world class health & fitness facility and their d
 * Develop the iOS app from scratch using `Swift`
 * Program custom UI interface elements, controls and interactions
 * Integrated with [MindBody](https://www.mindbodyonline.com/business)
-* Led a remote team consisting of a `UI Designer`, `Backend Engineer` and an `Android Engineer`
+* Integrated with Mux.com to achieve video streaming on demand
+* Led a remote team consisting of a `UI Designer`, `Backend Engineer` and an `Android Engineer` while developing the iOS app
 
 The app was handed over to the ZLC team to continue and is currently undergoing QA tests since I was relocating to Australia, however I can share more details about the project in person if required.
 
@@ -126,26 +127,58 @@ Barakah Coupons is a promo code app for online shops that I launched in 2021 wit
 Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/barakah-coupons-discounts/id1591725910)
 
 #
-  
+
+### Languages, Technology & Tools
+
+#### `Programming Languages`
+
+* Swift (Primary)
+* Objective C (Primary)
+* C++ (Secondary)
+* Java (Secondary)
+* C# (Secondary)
+* Core PHP (Secondary)
+* SQL
+
+#### `Databases`
+
+* MYSQL
+* SQLITE
+* Realm
+* CoreData
+
+#### `Tools & Technology`
+
+* XCode
+* CocoaPods
+* Postman
+* FIGMA
+* Adobe XD
+* Invision
+* JIRA
+
+#### `Services I have worked with`
+
+* Firebase
+* Payment providers like Stripe, Payfort & BrainTree
+* MindBody
+* Sentry
+* Intercom
+* MUX video streaming
+* Twilio
+* MX.com
+* VGS (Very Good Security)
+
+#
+
 ### Connect with me
+📫 Reach me at **shawnfrank.work@gmail.com**
+
+📄 Interested in my experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf)
+
 <p align="left">
 <a href="https://linkedin.com/in/shawn-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn-frank" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1619193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1619193" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools
-<p align="left"> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawn-frank&show_icons=true&locale=en" alt="shawn-frank" /></p>
-
+### Thanks for stopping by 👋🏾
