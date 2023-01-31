@@ -49,7 +49,18 @@ The app is no longer on the store, so you can learn more about it from the video
 
 https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-988e-0074058bf78f.mp4
 
-#### `Harman House`
+#### `Harman Kardon`
+
+![Harmon Kardon app screenshots](https://user-images.githubusercontent.com/80219691/215739074-a130532f-ded5-4b5b-a930-855169638bbd.gif)
+
+Harman Kardon stores are built with demonstration capabilities for their entire range of products, however, they wanted to enhance this experience so I was commissioned to work on this project. After several discussions with the Harman team, and their media partners, Mood Media GCC, there was a consensus that an iPad app which not only informed prospective buyers about their range of speakers, but also all allowed them to test drive any speaker that was on display. Here was what I got up to while working on this project:
+
+* Designed and developed a delightful user experience that was on brand, intutitive and engaging
+* Developed the iPad app using `Swift`
+* Key technology used was `AVPlayer`, `UIKit`, `FileManager` and `AlamoFire`
+* `Realm` was the database of choice to store app related content and user interaction data
+* Managed a backend developer on this project who was responsible for developing a CMS and Dashboard
+* Helped with deploying the app across multiple iPads in different stores across Dubai
 
 #### `Zabeel Ladies Club`
 
