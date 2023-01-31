@@ -51,6 +51,20 @@ https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-
 
 #### `Harman House`
 
+#### `Zabeel Ladies Club`
+
+![ZLC screenshots](https://user-images.githubusercontent.com/80219691/215735736-136908d3-0bf3-4976-bca5-f8633280f7ce.gif)
+
+Zabeel Ladies Club (ZLC) has a world class health & fitness facility and their digital precense follows suit for the most part, however, their mobile app was not on brand. I was hired by ZLC to refresh their existing mobile app in terms of user experience and functionality and here were some of my responsibilities:
+
+* Upgrade the user journeys and user experience of the current ZLC mobile app
+* Develop the iOS app from scratch using `Swift`
+* Program custom UI interface elements, controls and interactions
+* Integrated with [MindBody](https://www.mindbodyonline.com/business)
+* Led a remote team consisting of a `UI Designer`, `Backend Engineer` and an `Android Engineer`
+
+The app was handed over to the ZLC team to continue and is currently undergoing QA tests since I was relocating to Australia, however I can share more details about the project in person if required.
+
 #
 
 ### Indie Projects
