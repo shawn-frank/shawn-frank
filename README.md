@@ -4,7 +4,7 @@
 
 My name is Shawn Frank and I am a native iOS developer based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about programming user experiences. I ran a small creative agency in Dubai for 9 years where I created bespoke digital experiences for large enterprises & startups.
 
-🌱 I’m currently learning **SwiftUI**
+🌱 I’m currently learning `SwiftUI`, `Combine` & `Actors`
 
 👨‍💻 Check out some of my work over at <a href="https://www.iamshawnfrank.com/" target="_blank" rel="noreferrer"> iamshawnfrank.com </a>
 
