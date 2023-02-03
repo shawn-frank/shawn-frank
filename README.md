@@ -128,6 +128,17 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 
 #
 
+### A few words from some of my clients on Upwork
+
+<img width="700" alt="Reliable Radio Testimonial" src="https://user-images.githubusercontent.com/80219691/216612801-a850c809-e808-4c69-b7a4-d5a353bce482.png">
+
+<img width="700" alt="Deliver ME Testimonial" src="https://user-images.githubusercontent.com/80219691/216612521-44043c4f-cb37-49db-9891-89827e35a615.png">
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/80219691/216613016-76f9b1be-8194-4b87-b77f-96e93dee5e76.png">
+
+#
+
+
 ### Languages, Technology & Tools
 
 #### `Programming Languages`
