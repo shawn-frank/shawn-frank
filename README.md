@@ -4,7 +4,7 @@
 
 My name is Shawn Frank and I am a native iOS developer based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about programming user experiences. I ran a small creative agency in Dubai for 9 years where I created bespoke digital experiences for large enterprises & startups.
 
-🌱 I’m currently learning `SwiftUI`, `Combine` & `Actors`
+🌱 I’m currently learning `SwiftUI` & `Combine`
 
 👨‍💻 Check out some of my work over at <a href="https://www.iamshawnfrank.com/" target="_blank" rel="noreferrer"> iamshawnfrank.com </a>
 
@@ -138,6 +138,33 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 
 #
 
+### Popular Stack Overflow answers on various topics
+
+[Multipeer Connectivity - Get file transfer(Internet) speed and File Size in Swift 5](https://stackoverflow.com/a/70680395/1619193)
+
+[Detect when AVPlayerViewController is closed](https://stackoverflow.com/a/71403265/1619193)
+
+[Restrict to move/drag the pdf annotation within PDF Page boundary](https://stackoverflow.com/a/71044013/1619193)
+
+[How can i get list of all videos in swift](https://stackoverflow.com/a/70820207/1619193)
+
+[Current coordinates of a tableViewCell swift](https://stackoverflow.com/a/70975521/1619193)
+
+[AVAudioPCMBuffer as Base64](https://stackoverflow.com/questions/71714707/avaudiopcmbuffer-as-base64)
+
+[Need Header on Top for Horizontal UICollectionView UIKIT](https://stackoverflow.com/a/71283358/1619193)
+
+[How do I Fade Label out at end instead of replacing end with "..." if it's too long](https://stackoverflow.com/a/70796816/1619193)
+
+[Customise font color of each segment in UISegmented Control](https://stackoverflow.com/a/71141269/1619193)
+
+[Getting nil data when try to cancel a task and restart it again Swift](https://stackoverflow.com/q/71285909/1619193)
+
+[UIView With Pointed Edges](https://stackoverflow.com/a/71152669/1619193)
+
+[Animate a line between two points - swift](https://stackoverflow.com/a/71152669/1619193)
+
+[Swift - How to dismiss all of view controllers to go back to root](https://stackoverflow.com/a/68127944/1619193)
 
 ### Languages, Technology & Tools
 
@@ -149,7 +176,7 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * Java (Secondary)
 * C# (Secondary)
 * Core PHP (Secondary)
-* SQL
+* SQL (Secondary)
 
 #### `Databases`
 
@@ -170,10 +197,13 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * JIRA
 * Trello
 
-#### `Services I have worked with`
+#### `3rd Party services I have worked with`
 
 * Firebase
-* Payment providers like Stripe, Payfort & BrainTree
+* Google Maps
+* Google Ad Mob
+* Payment gateways like Stripe, Payfort & BrainTree
+* RevenueCat
 * MindBody
 * Sentry
 * Intercom
