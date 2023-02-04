@@ -185,6 +185,37 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * Realm
 * CoreData
 
+#### `Apple Frameworks I have worked with`
+
+* AVFoundation
+* CarPlay
+* CoreAnimation
+* CoreData standalone and with CloudKit
+* CoreLocation
+* FileManager
+* Multipeer Connectivity
+* PDFKit
+* PhotoKit
+* StoreKit
+* UIKit
+* WebKit
+
+#### `3rd Party services I have worked with`
+
+* [Firebase](https://firebase.google.com/)
+* [Google Maps](https://developers.google.com/maps/documentation/ios-sdk/overview)
+* [Google Ad Mob](https://admob.google.com/home/)
+* Payment gateways like [Stripe](https://stripe.com/) & [BrainTree](https://www.braintreepayments.com/)
+* [RevenueCat](https://www.revenuecat.com/)
+* [MindBody](https://developers.mindbodyonline.com/PublicDocumentation/V6)
+* [Sentry](https://sentry.io/)
+* [Instabug](https://www.instabug.com/)
+* [Intercom](https://www.intercom.com/)
+* [MUX video streaming](https://www.mux.com/)
+* [Twilio](https://www.twilio.com/)
+* [MX.com](https://www.mx.com/)
+* [VGS (Very Good Security)](https://www.verygoodsecurity.com/)
+
 #### `Tools & Technology`
 
 * XCode
@@ -196,21 +227,6 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * Invision
 * JIRA
 * Trello
-
-#### `3rd Party services I have worked with`
-
-* Firebase
-* Google Maps
-* Google Ad Mob
-* Payment gateways like Stripe, Payfort & BrainTree
-* RevenueCat
-* MindBody
-* Sentry
-* Intercom
-* MUX video streaming
-* Twilio
-* MX.com
-* VGS (Very Good Security)
 
 #
 
