@@ -142,6 +142,8 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 
 [Multipeer Connectivity - Get file transfer(Internet) speed and File Size in Swift 5](https://stackoverflow.com/a/70680395/1619193)
 
+[why I can’t open a App Store link inside a web view?](https://stackoverflow.com/a/70858964/1619193)
+
 [Detect when AVPlayerViewController is closed](https://stackoverflow.com/a/71403265/1619193)
 
 [Restrict to move/drag the pdf annotation within PDF Page boundary](https://stackoverflow.com/a/71044013/1619193)
