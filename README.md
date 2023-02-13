@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-
 
 Spuble is a project that I hold quite close to my heart for several reasons. First, it made a real impact in the lives of senior citizens who lost their hearing ability over time. Second, I had the chance to collaborate with some talented people over at Memac Ogilvy. And last, but not least, the app won an award at the [the Dubai Lynx Festival in 2017](https://www2.dubailynx.com/winners/2017/innovation/) in the category of innovative technology. Here was how I was involved:
 
-* Developed the app in `Objective C`
+* Developed the app in `Swift`
 * Used `AutoLayout` to scale the app for iPhones & iPads
 * Leveraged `localization` to enable the app to support English & Arabic 
 * Integrated [Nuance's Dragon Speech to Text SDK](https://www.nuance.com/dragon.html)
