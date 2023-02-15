@@ -1,6 +1,6 @@
 ### Hello there, Shawn here 👊🏾
-#### I develop native iOS apps & enjoy creating delightful user experiences.
-![I am an iOS developer and enjoy creating great user experiences.](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
+
+![Shawn screen gif](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
 
 My name is Shawn Frank and I am a native iOS specialist based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about creating feature rich applications with a delightful user experiences. I ran a small creative agency in Dubai for 9 years where I created bespoke digital experiences for large enterprises & startups.
 
