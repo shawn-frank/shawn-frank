@@ -4,10 +4,6 @@
 
 My name is Shawn Frank and I am a native iOS specialist based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about creating feature rich applications with a delightful user experiences. I ran a small creative agency in Dubai for 9 years where I created bespoke digital experiences for large enterprises & startups.
 
-🌱 I’m currently learning `SwiftUI` & `Combine`
-
-👨‍💻 Check out some of my work over at <a href="https://www.iamshawnfrank.com/" target="_blank" rel="noreferrer"> iamshawnfrank.com </a>
-
 📫 Reach me at **shawnfrank.work@gmail.com**
 
 📄 Interested in my experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Developer.pdf)
@@ -173,6 +169,7 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 #### `Programming Languages`
 
 * Swift (Primary)
+* SwiftUI (Primary)
 * Objective C (Primary)
 * C++ (Secondary)
 * Java (Secondary)
@@ -191,6 +188,7 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 
 * AVFoundation
 * CarPlay
+* Combine
 * CoreAnimation
 * CoreData standalone and with CloudKit
 * CoreLocation
@@ -206,10 +204,13 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 
 * [Firebase](https://firebase.google.com/)
 * [Google Maps](https://developers.google.com/maps/documentation/ios-sdk/overview)
+* [Google Places](https://developers.google.com/maps/documentation/places/ios-sdk/overview)
 * [Google Ad Mob](https://admob.google.com/home/)
 * Payment gateways like [Stripe](https://stripe.com/) & [BrainTree](https://www.braintreepayments.com/)
 * [RevenueCat](https://www.revenuecat.com/)
 * [MindBody](https://developers.mindbodyonline.com/PublicDocumentation/V6)
+* [Snowplow Analytics](https://snowplow.io/)
+* [Piano](https://piano.io/)
 * [Sentry](https://sentry.io/)
 * [Instabug](https://www.instabug.com/)
 * [Intercom](https://www.intercom.com/)
@@ -223,8 +224,12 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * XCode
 * Git
 * CocoaPods
+* Swift Package Manager (SPM)
+* Charles / Proxyman
+* Wiremock
+* Fastlane
 * Postman
-* FIGMA
+* Figma
 * Adobe XD
 * Invision
 * JIRA
