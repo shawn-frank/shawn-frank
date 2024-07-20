@@ -1,4 +1,4 @@
-### Hello there, Shawn here 👊🏾
+### Hello there, Shawn here
 
 ![Shawn screen gif](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
 
