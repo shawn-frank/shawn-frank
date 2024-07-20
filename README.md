@@ -2,7 +2,7 @@
 
 ![Shawn screen gif](https://github.com/shawn-frank/shawn-frank/blob/main/shawn.gif)
 
-My name is Shawn Frank and I am a native iOS specialist based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about creating feature rich applications with a delightful user experiences. I currently work as a software engineer at (Nine Entertainment)[https://www.nineforbrands.com.au/].
+My name is Shawn Frank and I am a native iOS specialist based in Brisbane, Australia. I develop iOS applications using Swift (or Objective C if required) and I am especially passionate about creating feature rich applications with a delightful user experiences. I currently work as a software engineer at [Nine Entertainment](https://www.nineforbrands.com.au/).
 
 📫 Reach me at **shawnfrank.work@gmail.com**
 
