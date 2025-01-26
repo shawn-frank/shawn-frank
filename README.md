@@ -171,11 +171,11 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * Swift (Primary)
 * SwiftUI (Primary)
 * Objective C (Primary)
-* C++ (Secondary)
-* Java (Secondary)
-* C# (Secondary)
-* Core PHP (Secondary)
-* SQL (Secondary)
+* C# (Working experience)
+* Core PHP (Working experience)
+* C++ (Working experience)
+* Java (Working experience)
+* SQL (Working experience)
 
 #### `Databases`
 
@@ -192,6 +192,7 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * CoreAnimation
 * CoreData standalone and with CloudKit
 * CoreLocation
+* Apple Maps
 * FileManager
 * Multipeer Connectivity
 * PDFKit
@@ -213,21 +214,24 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * [Piano](https://piano.io/)
 * [Sentry](https://sentry.io/)
 * [Instabug](https://www.instabug.com/)
+* [Qualtrics](https://www.qualtrics.com/en-au/)
 * [Intercom](https://www.intercom.com/)
 * [MUX video streaming](https://www.mux.com/)
 * [Twilio](https://www.twilio.com/)
 * [MX.com](https://www.mx.com/)
 * [VGS (Very Good Security)](https://www.verygoodsecurity.com/)
 
-#### `Tools & Technology`
+#### `Other Tools & Technology I've worked with`
 
 * XCode
-* Git
-* CocoaPods
+* Git with Github and Bitbucket
+* CocoaPods & SPM
+* RXSwift
+* GraphQL, REST and SOAP API integration
+* Websocket development
 * Swift Package Manager (SPM)
 * Charles / Proxyman
 * Wiremock
-* Fastlane
 * Postman
 * Figma
 * Adobe XD
