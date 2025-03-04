@@ -194,12 +194,14 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * CoreLocation
 * Apple Maps
 * FileManager
+* MapKit
 * Multipeer Connectivity
 * PDFKit
 * PhotoKit
 * StoreKit
 * UIKit
 * WebKit
+* Exposure to TipKit, HealthKit and SiriKit
 
 #### `3rd Party services I have worked with`
 
@@ -238,6 +240,7 @@ Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/bara
 * Invision
 * JIRA
 * Trello
+* Exposure to CI/CD tooling with Fastlane, Github and Bitrise
 
 #
 
