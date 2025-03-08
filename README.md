@@ -30,6 +30,8 @@ Here are some of my key engineering contributions to the Good Food app.
 * Third party integrations included `Firebase`, `Qualtrics`, `Google Places`, `Piano` and `Snowplow` analytics
 * Exposure to CI tools `Fastlane` and `Bitrise`
 
+<br>
+
 #### `Shaman Pitch Presentation App`
 
 Shaman is a presentation platform that enables its customers to close more deals and was founded by Maurice Van Leeuwen from the Netherlands. Maurice visited me in Dubai back in 2014 to work on Shaman and we started with a team of just 3 people. I was initially incharge of designing the UX, developing the iOS app and managing the development. By 2016, Shaman started gaining momentum with more customers and I helped Maurice expand the Shaman team so that we could move faster. Here were some of the project highlights:
@@ -47,6 +49,8 @@ Learn more about Shaman from their [website](https://www.shamanhealth.com/) or c
 Alternatively, you could watch the video below to learn more about Shaman and get a glimpse of the iOS app in action.
 
 https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-afbd-a13e2ba32e19.mp4
+
+<br>
 
 #### `Nespresso Vertuo experience`
 
