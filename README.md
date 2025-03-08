@@ -6,7 +6,7 @@ My name is Shawn Frank and I am a native iOS software engineer based in Brisbane
 
 📫 Reach me at **shawnfrank.work@gmail.com**
 
-📄 Interested in my experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Engineer.pdf)
+📄 Interested in my work experience? [Review my resume](https://github.com/shawn-frank/shawn-frank/blob/main/Shawn_Frank_Resume_iOS_Engineer.pdf)
 
 #
 
