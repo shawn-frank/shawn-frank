@@ -10,7 +10,25 @@ My name is Shawn Frank and I am a native iOS software engineer based in Brisbane
 
 #
 
-### Client Projects
+### Projects
+
+#### `Good Food iOS App`
+
+![image](https://github.com/user-attachments/assets/6de0833f-85b0-4ed7-ab77-d03e2c1e9968)
+
+The Good Food app, launched in November 2024, offers thousands of expert recipes, restaurant reviews, and culinary advice to nearly 6,000 active users. I had the privilege of working with an exceptionally talented, multidisciplinary team to bring this beloved Australian brand’s app to life within a year.
+
+As part of a four-person iOS engineering team, I not only developed several key features but also took on a tech lead role for multiple initiatives. This involved gathering requirements, liaising with stakeholders across various departments, and serving as the primary point of contact for other engineers.
+
+Here are some of my key engineering contributions to the Good Food app.
+
+* I served as the tech lead for key initiatives — custom UX components, animations, rich content rendering, data and analytics, onboarding and authentication
+* Liaised and communicated with both technical and non-technical stakeholders, including editors, product owners, designers, and directors
+* A key initiative I led was transitioning from RxSwift, previously used across Nine, to Combine
+* I averaged 6 PR reviews per sprint for 2 years with positive feedback from engineers and my EM
+* Worked with Swift, SwiftUI, UIKit, Combine, CoreData, StoreKit, MapKit, and CoreLocation
+* Third party integrations included Firebase, Qualtrics, Google Places, Piano and Snowplow analytics
+* Exposure to CI tools Fastlane and Bitrise
 
 #### `Shaman Pitch Presentation App`
 
