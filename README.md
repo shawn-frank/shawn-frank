@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-
 
 #### `Nespresso Vertuo experience`
 
-![image](https://github.com/user-attachments/assets/733c4a45-9476-4d64-9222-a5d8f463dc5c)
+![Nespresso capsule gif](https://github.com/shawn-frank/shawn-frank/blob/main/Nespresso-capsule.gif)
 
 
 Nespresso was preparing to launch the latest Vertuo machine and sought an immersive activation at Mall of the Emirates for existing and potential customers. I was brought in as the technical partner to help create an engaging and memorable experience for the visitors.
