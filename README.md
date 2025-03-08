@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-
 <br>
 
 #### `Nespresso Vertuo experience`
-
+<br>
 <p align="center">
   <img src="https://github.com/shawn-frank/shawn-frank/blob/main/Nespresso-capsule.gif" alt="Nespresso iOS app built in Swift"/>
 </p>
@@ -68,6 +68,8 @@ Nespresso was preparing to launch the latest Vertuo machine and sought an immers
 * Networking and API integration were handled via URLSession
 * Multithreading was achieved using DispatchQueues and DispatchGroups
 * I then hired and led a backend engineer to build the backend using Laravel and implement integrations with Twilio and SendGrid
+
+<br>
 
 #### `Spuble - Real Life Speech Bubbles`
 
@@ -84,6 +86,8 @@ The app is no longer on the store, so you can learn more about it from the video
 
 https://user-images.githubusercontent.com/80219691/215561835-f9afaadb-939d-469d-988e-0074058bf78f.mp4
 
+<br>
+
 #### `Harman Kardon`
 
 ![Harmon Kardon app screenshots](https://user-images.githubusercontent.com/80219691/215739074-a130532f-ded5-4b5b-a930-855169638bbd.gif)
@@ -99,6 +103,8 @@ Harman Kardon stores are built with demonstration capabilities for their entire 
 
 The app is not on the App Store, however, I can give you more details if required in person.
 
+<br>
+
 #### `Zabeel Ladies Club`
 
 ![ZLC screenshots](https://user-images.githubusercontent.com/80219691/215735736-136908d3-0bf3-4976-bca5-f8633280f7ce.gif)
@@ -113,6 +119,8 @@ Zabeel Ladies Club (ZLC) has a world class health & fitness facility and their d
 * Led a remote team consisting of a `UI Designer`, `Backend Engineer` and an `Android Engineer` while developing the iOS app
 
 The app was handed over to the ZLC team to continue and is currently undergoing QA tests since I was relocating to Australia, however I can share more details about the project in person if required.
+
+<br>
 
 ### Indie Projects
 #### `PanoStory`
@@ -131,6 +139,8 @@ I met a UX designer / product manager named Alex Cox from San Francisco via UpWo
 
 Check out [PanoStory on the App Store.](https://apps.apple.com/us/app/panostory/id1558262230)
 
+<br>
+
 #### `Reliable Radio`
 
 ![Reliable Radio App Screenshots](https://user-images.githubusercontent.com/80219691/215565275-470863b7-d081-4f9b-bf7f-aa89cc484a4a.png)
@@ -143,6 +153,8 @@ Reliable Radio is the brainchild of an AWS solutions architect named Dawid Gatti
 * Connected with the `iTunes / Apple Music API` in order to display the currently playing song's artwork
 
 The project is no longer live, you can [learn more about Reliable Radio on Product Hunt.](https://www.producthunt.com/products/reliable-radio)</p>
+
+<br>
 
 #### `Barakah Coupons`
 
@@ -158,6 +170,8 @@ Barakah Coupons is a promo code app for online shops that I launched in 2021 wit
 * Managed a backend developer to develop a CMS and dashboard for us
 
 Check out [Barakah Coupons on the App Store.](https://apps.apple.com/ae/app/barakah-coupons-discounts/id1591725910)
+
+<br>
 
 #
 
