@@ -22,13 +22,13 @@ As part of a four-person iOS engineering team, I not only developed several key 
 
 Here are some of my key engineering contributions to the Good Food app.
 
-* I served as the tech lead for key initiatives — custom UX components, animations, rich content rendering, data and analytics, onboarding and authentication
+* Tech lead for key initiatives — custom UX components, animations, rich content rendering, data and analytics, onboarding and authentication
 * Liaised and communicated with both technical and non-technical stakeholders, including editors, product owners, designers, and directors
-* A key initiative I led was transitioning from RxSwift, previously used across Nine, to Combine
+* A key initiative I led was transitioning from `RxSwift`, previously used across Nine, to `Combine`
 * I averaged 6 PR reviews per sprint for 2 years with positive feedback from engineers and my EM
-* Worked with Swift, SwiftUI, UIKit, Combine, CoreData, StoreKit, MapKit, and CoreLocation
-* Third party integrations included Firebase, Qualtrics, Google Places, Piano and Snowplow analytics
-* Exposure to CI tools Fastlane and Bitrise
+* Worked with `Swift`, `SwiftUI`, `UIKit`, `Combine`, `CoreData`, `StoreKit`, `MapKit`, and `CoreLocation`
+* Third party integrations included `Firebase`, `Qualtrics`, `Google Places`, `Piano` and `Snowplow` analytics
+* Exposure to CI tools `Fastlane` and `Bitrise`
 
 #### `Shaman Pitch Presentation App`
 
