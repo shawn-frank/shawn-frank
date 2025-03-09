@@ -63,7 +63,7 @@ Nespresso was preparing to launch the latest Vertuo machine and sought an immers
 
 ![Nespresso (1)](https://github.com/user-attachments/assets/dc108cd6-871c-428f-911d-19e84ce234d7)
 
-These were some of my key engineering contributions to the Nespresso Vertuo iPad app
+While a detailed discussion is best in person, here are some of my key engineering contributions to the Nespresso Vertuo iPad app
 
 * The iPad app was built in Swift, with a fully programmatic UIKit UI, leveraging AutoLayout, UIScrollView, and UIView animations
 * For data persistence, I used CoreData, UserDefaults, and the documents directory
