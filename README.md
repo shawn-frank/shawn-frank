@@ -63,12 +63,15 @@ Nespresso was preparing to launch the latest Vertuo machine and sought an immers
 
 ![Nespresso (1)](https://github.com/user-attachments/assets/dc108cd6-871c-428f-911d-19e84ce234d7)
 
-* In just one week, over 1,200 people engaged with the activation, receiving such positive feedback that it was later replicated in Kuwait
+These were some of my key engineering contributions to the Nespresso Vertuo iPad app
+
 * The iPad app was built in Swift, with a fully programmatic UIKit UI, leveraging AutoLayout, UIScrollView, and UIView animations
 * For data persistence, I used CoreData, UserDefaults, and the documents directory
 * Networking and API integration were handled via URLSession
 * Multithreading was achieved using DispatchQueues and DispatchGroups
 * I then hired and led a backend engineer to build the backend using Laravel and implement integrations with Twilio and SendGrid
+
+In just one week, over 1,200 people engaged with the activation, receiving such positive feedback that it was later replicated in Kuwait
 
 <br>
 
