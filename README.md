@@ -57,6 +57,7 @@ https://user-images.githubusercontent.com/80219691/215472769-7ddbd110-4168-4ddd-
 <p align="center">
   <img src="https://github.com/shawn-frank/shawn-frank/blob/main/Nespresso-capsule.gif" alt="Nespresso iOS app built in Swift"/>
 </p>
+<br>
 
 Nespresso was preparing to launch the latest Vertuo machine and sought an immersive activation at Mall of the Emirates for existing and potential customers. I was brought in as the technical partner to help create an engaging and memorable experience for the visitors.
 
